@@ -17,7 +17,10 @@ public class Main {
             System.out.println("2. Read transactions");
             System.out.println("3. Update a transaction");
             System.out.println("4. Delete a transaction");
-            System.out.println("5. Quit");
+            System.out.println("5. Save Data");
+            System.out.println("6. Load Data");
+            System.out.println("7. Quit");
+
 
             option = scan.nextInt();
 
